@@ -1,0 +1,16 @@
+header{
+    background-color: aliceblue;
+    padding: 0;
+    border-bottom: 1px solid royalblue;
+
+}
+a{
+    color:crimson;
+}
+a:hover{
+    background-color:black;
+    color:white;
+}
+.container{
+    
+}
